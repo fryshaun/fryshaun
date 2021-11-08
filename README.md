@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fryshaun
 - 👀 I’m interested in front-end and e-commerce development.
-- ✨ Experienced in Wordpress theme development, small business managememt, POS and e-commerce integration and deployment.
+- ✨ Experienced in Wordpress theme development, small business management, POS and e-commerce integrations and deployment.
 - 🌱 Currently learning React.js and GraphQL.
 - 📫 Reach me at <a href="https://frydigital.com">frydigital.com</a>
 
